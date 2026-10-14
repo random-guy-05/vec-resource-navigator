@@ -763,5 +763,15 @@
     "title": "VEC R Data Tour — inspect Challenge H5ADs with Bioconductor",
     "url": "https://github.com/random-guy-05/vec-r-data-tour",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "teach",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC Community Resource Navigator — searchable community directory",
+    "url": "https://random-guy-05.github.io/vec-resource-navigator/",
+    "status": "Filed · not yet reviewed"
   }
 ]
