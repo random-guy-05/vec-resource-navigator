@@ -1065,5 +1065,15 @@
     "title": "VEC Rule Scenario Trainer — 30-case interactive practice for Challenge rules",
     "url": "https://github.com/random-guy-05/vec-rule-scenario-trainer",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "build",
+    "category": "Submission & files",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC P3 Attempt Ledger — offline tracker for two scored submissions per board",
+    "url": "https://github.com/random-guy-05/vec-p3-attempt-ledger",
+    "status": "Filed · not yet reviewed"
   }
 ]
