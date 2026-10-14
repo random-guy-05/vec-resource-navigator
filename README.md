@@ -22,7 +22,7 @@ This is a snapshot, not a replacement for the official live page. New resources,
 2. Add or update one tab-separated row with `kind`, `category`, `tasks`, `title`, and `url`.
 3. Keep accepted entries first and filed, not-yet-reviewed entries after them; the generator uses that ordering to set the snapshot status.
 4. Run `python3 tools/build_catalog.py` to regenerate `catalog.json`.
-5. Update the snapshot date and count in `index.html` and this README.
+5. Update the snapshot date and count in this README, and change the `version` query in `index.html` so browsers do not reuse a cached JSON catalog.
 
 The generator uses only Python's standard library and refuses duplicate URLs or incomplete rows.
 
