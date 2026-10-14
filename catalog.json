@@ -1045,5 +1045,25 @@
     "title": "VEC Resource Link Audit — conservative checker for shared community links",
     "url": "https://github.com/random-guy-05/vec-resource-link-audit",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "build",
+    "category": "Scoring & learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "VEC Replicate Range — paired Task 3 biological-replicate sensitivity report",
+    "url": "https://github.com/random-guy-05/vec-replicate-range",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "teach",
+    "category": "Rules & operations",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC Rule Scenario Trainer — 30-case interactive practice for Challenge rules",
+    "url": "https://github.com/random-guy-05/vec-rule-scenario-trainer",
+    "status": "Filed · not yet reviewed"
   }
 ]

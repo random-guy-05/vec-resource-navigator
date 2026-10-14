@@ -98,3 +98,5 @@ expand	Workshops & peer learning	T3	Oficina Task 3: resposta à perturbação (p
 build	Environments & performance	General	VEC PBS + LSF Starter — research-cluster job templates beyond Slurm	https://github.com/random-guy-05/vec-pbs-lsf-starter
 build	Data & eligibility	T1,T2,T3	VEC Cohort Audit — metadata-only cell composition profiles across stages	https://github.com/random-guy-05/vec-cohort-audit
 build	Rules & operations	General	VEC Resource Link Audit — conservative checker for shared community links	https://github.com/random-guy-05/vec-resource-link-audit
+build	Scoring & learning	T3	VEC Replicate Range — paired Task 3 biological-replicate sensitivity report	https://github.com/random-guy-05/vec-replicate-range
+teach	Rules & operations	General	VEC Rule Scenario Trainer — 30-case interactive practice for Challenge rules	https://github.com/random-guy-05/vec-rule-scenario-trainer
