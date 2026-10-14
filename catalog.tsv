@@ -72,3 +72,4 @@ expand	Start here	T1,T2,T3	VEC RU Starter: Russian-language guide and executed s
 teach	Data & eligibility	General	VEC R Data Tour — inspect Challenge H5ADs with Bioconductor	https://github.com/random-guy-05/vec-r-data-tour
 teach	Start here	General	VEC Community Resource Navigator — searchable community directory	https://random-guy-05.github.io/vec-resource-navigator/
 build	Environments & performance	General	VEC Slurm Starter — cluster job templates for scoring and model runs	https://github.com/random-guy-05/vec-slurm-starter
+organize	Workshops & peer learning	General	VEC Peer Workshop Kit — facilitator-ready workshop for a reproducible first workflow	https://github.com/random-guy-05/vec-workshop-kit

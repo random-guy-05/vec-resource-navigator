@@ -783,5 +783,15 @@
     "title": "VEC Slurm Starter — cluster job templates for scoring and model runs",
     "url": "https://github.com/random-guy-05/vec-slurm-starter",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "organize",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC Peer Workshop Kit — facilitator-ready workshop for a reproducible first workflow",
+    "url": "https://github.com/random-guy-05/vec-workshop-kit",
+    "status": "Filed · not yet reviewed"
   }
 ]
