@@ -793,5 +793,225 @@
     "title": "VEC Peer Workshop Kit — facilitator-ready workshop for a reproducible first workflow",
     "url": "https://github.com/random-guy-05/vec-workshop-kit",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC Peer Workshop — reproducible first workflow (Español)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/es.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC 同伴工作坊：可复现的起步流程（简体中文）",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/zh-CN.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "Atelier VEC entre pairs : flux reproductible (français)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/fr.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC सहकर्मी कार्यशाला: दोहराने योग्य कार्यप्रवाह (हिंदी)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/hi.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC ピアワークショップ：再現可能なワークフロー（日本語）",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/ja.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC 동료 워크숍: 재현 가능한 워크플로 (한국어)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/ko.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "Oficina VEC entre pares: fluxo reproduzível (português do Brasil)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/pt-BR.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "ورشة VEC بين الزملاء: سير عمل قابل لإعادة الإنتاج (العربية)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/ar.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "organize",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Task 2 Workshop: Reasoning Across Space and Time (English)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/en.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Taller Task 2: razonar sobre espacio y tiempo (español)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/es.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Task 2 工作坊：理解时空预测（简体中文）",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/zh-CN.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Atelier Task 2 : espace, temps et coordonnées locales (français)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/fr.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Task 2 ワークショップ：時空間予測を読み解く（日本語）",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/ja.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Task 2 워크숍: 시공간 예측 이해하기 (한국어)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/ko.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Oficina Task 2: raciocinar sobre espaço e tempo (português do Brasil)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/pt-BR.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "organize",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Task 3 Workshop: Predict the Perturbation Response (English)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/en.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Taller Task 3: predecir la respuesta a una perturbación (español)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/es.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Task 3 工作坊：预测扰动响应（简体中文）",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/zh-CN.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Atelier Task 3 : prédire la réponse à une perturbation (français)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/fr.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Task 3 ワークショップ：摂動応答を予測する（日本語）",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ja.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Task 3 워크숍: perturbation 반응 예측하기 (한국어)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ko.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Oficina Task 3: resposta à perturbação (português do Brasil)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/pt-BR.md",
+    "status": "Filed · not yet reviewed"
   }
 ]

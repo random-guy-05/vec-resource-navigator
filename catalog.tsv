@@ -73,3 +73,26 @@ teach	Data & eligibility	General	VEC R Data Tour — inspect Challenge H5ADs wit
 teach	Start here	General	VEC Community Resource Navigator — searchable community directory	https://random-guy-05.github.io/vec-resource-navigator/
 build	Environments & performance	General	VEC Slurm Starter — cluster job templates for scoring and model runs	https://github.com/random-guy-05/vec-slurm-starter
 organize	Workshops & peer learning	General	VEC Peer Workshop Kit — facilitator-ready workshop for a reproducible first workflow	https://github.com/random-guy-05/vec-workshop-kit
+
+expand	Start here	General	VEC Peer Workshop — reproducible first workflow (Español)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/es.md
+expand	Start here	General	VEC 同伴工作坊：可复现的起步流程（简体中文）	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/zh-CN.md
+expand	Start here	General	Atelier VEC entre pairs : flux reproductible (français)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/fr.md
+expand	Start here	General	VEC सहकर्मी कार्यशाला: दोहराने योग्य कार्यप्रवाह (हिंदी)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/hi.md
+expand	Start here	General	VEC ピアワークショップ：再現可能なワークフロー（日本語）	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/ja.md
+expand	Start here	General	VEC 동료 워크숍: 재현 가능한 워크플로 (한국어)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/ko.md
+expand	Start here	General	Oficina VEC entre pares: fluxo reproduzível (português do Brasil)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/pt-BR.md
+expand	Start here	General	ورشة VEC بين الزملاء: سير عمل قابل لإعادة الإنتاج (العربية)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/ar.md
+organize	Workshops & peer learning	T2	Task 2 Workshop: Reasoning Across Space and Time (English)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/en.md
+expand	Workshops & peer learning	T2	Taller Task 2: razonar sobre espacio y tiempo (español)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/es.md
+expand	Workshops & peer learning	T2	Task 2 工作坊：理解时空预测（简体中文）	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/zh-CN.md
+expand	Workshops & peer learning	T2	Atelier Task 2 : espace, temps et coordonnées locales (français)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/fr.md
+expand	Workshops & peer learning	T2	Task 2 ワークショップ：時空間予測を読み解く（日本語）	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/ja.md
+expand	Workshops & peer learning	T2	Task 2 워크숍: 시공간 예측 이해하기 (한국어)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/ko.md
+expand	Workshops & peer learning	T2	Oficina Task 2: raciocinar sobre espaço e tempo (português do Brasil)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/pt-BR.md
+organize	Workshops & peer learning	T3	Task 3 Workshop: Predict the Perturbation Response (English)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/en.md
+expand	Workshops & peer learning	T3	Taller Task 3: predecir la respuesta a una perturbación (español)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/es.md
+expand	Workshops & peer learning	T3	Task 3 工作坊：预测扰动响应（简体中文）	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/zh-CN.md
+expand	Workshops & peer learning	T3	Atelier Task 3 : prédire la réponse à une perturbation (français)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/fr.md
+expand	Workshops & peer learning	T3	Task 3 ワークショップ：摂動応答を予測する（日本語）	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ja.md
+expand	Workshops & peer learning	T3	Task 3 워크숍: perturbation 반응 예측하기 (한국어)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ko.md
+expand	Workshops & peer learning	T3	Oficina Task 3: resposta à perturbação (português do Brasil)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/pt-BR.md
