@@ -773,5 +773,15 @@
     "title": "VEC Community Resource Navigator — searchable community directory",
     "url": "https://random-guy-05.github.io/vec-resource-navigator/",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "build",
+    "category": "Environments & performance",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC Slurm Starter — cluster job templates for scoring and model runs",
+    "url": "https://github.com/random-guy-05/vec-slurm-starter",
+    "status": "Filed · not yet reviewed"
   }
 ]
