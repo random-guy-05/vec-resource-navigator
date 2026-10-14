@@ -73,7 +73,6 @@ teach	Data & eligibility	General	VEC R Data Tour — inspect Challenge H5ADs wit
 teach	Start here	General	VEC Community Resource Navigator — searchable community directory	https://random-guy-05.github.io/vec-resource-navigator/
 build	Environments & performance	General	VEC Slurm Starter — cluster job templates for scoring and model runs	https://github.com/random-guy-05/vec-slurm-starter
 organize	Workshops & peer learning	General	VEC Peer Workshop Kit — facilitator-ready workshop for a reproducible first workflow	https://github.com/random-guy-05/vec-workshop-kit
-
 expand	Start here	General	VEC Peer Workshop — reproducible first workflow (Español)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/es.md
 expand	Start here	General	VEC 同伴工作坊：可复现的起步流程（简体中文）	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/zh-CN.md
 expand	Start here	General	Atelier VEC entre pairs : flux reproductible (français)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/fr.md
@@ -96,3 +95,6 @@ expand	Workshops & peer learning	T3	Atelier Task 3 : réponse à une perturbatio
 expand	Workshops & peer learning	T3	Task 3 ワークショップ：摂動応答を予測する（日本語）	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ja.md
 expand	Workshops & peer learning	T3	Task 3 워크숍: perturbation 반응 예측하기 (한국어)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ko.md
 expand	Workshops & peer learning	T3	Oficina Task 3: resposta à perturbação (português do Brasil)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/pt-BR.md
+build	Environments & performance	General	VEC PBS + LSF Starter — research-cluster job templates beyond Slurm	https://github.com/random-guy-05/vec-pbs-lsf-starter
+build	Data & eligibility	T1,T2,T3	VEC Cohort Audit — metadata-only cell composition profiles across stages	https://github.com/random-guy-05/vec-cohort-audit
+build	Rules & operations	General	VEC Resource Link Audit — conservative checker for shared community links	https://github.com/random-guy-05/vec-resource-link-audit

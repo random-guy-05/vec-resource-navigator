@@ -2,7 +2,7 @@
 
 A searchable, no-dependency index for the public Virtual Embryo Challenge community resources. It organizes links by workflow and task so participants can find a relevant starting point without scanning the full chronological list.
 
-**Snapshot:** 14 October 2026 · **Cataloged:** 96 resources · **License:** MIT
+**Snapshot:** 14 October 2026 · **Cataloged:** 99 resources · **License:** MIT
 
 ## Use it
 
@@ -12,7 +12,7 @@ The catalog is also available as `catalog.json`. It can be read directly by scri
 
 ## Scope and attribution
 
-The titles, public URLs, resource kinds, and review states were transcribed from the official [VEC community resources page](https://virtualembryo.ai/challenge/resources) on 14 October 2026. The first snapshot contained 71 existing resources; after filing the navigator, Slurm starter, peer workshop kit, and 22 workshop-series editions, the catalog was updated to include them, for 96 total. The workflow and task labels are navigation tags added for this index; they are not organiser categories, validation claims, or endorsements. Follow each link to read the author's own description and limitations. “Filed · not yet reviewed” means the official page had not marked that entry reviewed at snapshot time; filing alone is not acceptance.
+The base set of titles, public URLs, resource kinds, and review states was transcribed from the official [VEC community resources page](https://virtualembryo.ai/challenge/resources) on 14 October 2026. The first snapshot contained 71 existing resources; later additions brought the catalog to 96. This revision adds three new filings—the PBS/LSF cluster starter, metadata-only cohort audit, and conservative resource-link audit—for 99 total. Workflow and task labels are navigation tags added for this index; they are not organiser categories, validation claims, or endorsements. Follow each link to read the author's description and limitations. “Filed · not yet reviewed” means the official page had not marked that entry reviewed at snapshot time; filing alone is not acceptance.
 
 This is a snapshot, not a replacement for the official live page. New resources, changed links, and updated review states may appear there first.
 

@@ -1013,5 +1013,37 @@
     "title": "Oficina Task 3: resposta à perturbação (português do Brasil)",
     "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/pt-BR.md",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "build",
+    "category": "Environments & performance",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC PBS + LSF Starter — research-cluster job templates beyond Slurm",
+    "url": "https://github.com/random-guy-05/vec-pbs-lsf-starter",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "build",
+    "category": "Data & eligibility",
+    "tasks": [
+      "T1",
+      "T2",
+      "T3"
+    ],
+    "title": "VEC Cohort Audit — metadata-only cell composition profiles across stages",
+    "url": "https://github.com/random-guy-05/vec-cohort-audit",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "build",
+    "category": "Rules & operations",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC Resource Link Audit — conservative checker for shared community links",
+    "url": "https://github.com/random-guy-05/vec-resource-link-audit",
+    "status": "Filed · not yet reviewed"
   }
 ]
