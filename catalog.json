@@ -1418,5 +1418,18 @@
     "title": "Hội thảo Task 3: Dự đoán phản ứng với perturbation (Tiếng Việt)",
     "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/vi.md",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "T1",
+      "T2",
+      "T3",
+      "Agent"
+    ],
+    "title": "VEC Pathway Builder — Indonesian and Vietnamese interface expansion",
+    "url": "https://github.com/random-guy-05/vec-pathway-builder/commit/02addaa",
+    "status": "Filed · not yet reviewed"
   }
 ]
