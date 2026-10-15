@@ -101,3 +101,28 @@ build	Rules & operations	General	VEC Resource Link Audit — conservative checke
 build	Scoring & learning	T3	VEC Replicate Range — paired Task 3 biological-replicate sensitivity report	https://github.com/random-guy-05/vec-replicate-range
 teach	Rules & operations	General	VEC Rule Scenario Trainer — 30-case interactive practice for Challenge rules	https://github.com/random-guy-05/vec-rule-scenario-trainer
 build	Submission & files	General	VEC P3 Attempt Ledger — offline tracker for two scored submissions per board	https://github.com/random-guy-05/vec-p3-attempt-ledger
+organize	Workshops & peer learning	T1	Task 1 Workshop: Forecasting a Changing Cell Population	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/en.md
+expand	Workshops & peer learning	T1	Task-1-Workshop auf Deutsch: Eine sich verändernde Zellpopulation prognostizieren	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/de.md
+expand	Workshops & peer learning	T1	Laboratorio Task 1 in italiano: prevedere una popolazione cellulare in cambiamento	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/it.md
+expand	Workshops & peer learning	T1	Task 1 Atölyesi: Değişen bir hücre popülasyonunu tahmin etme	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/tr.md
+expand	Workshops & peer learning	T1	Taller Task 1: Pronosticar una población celular cambiante	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/es.md
+expand	Workshops & peer learning	T1	Task 1 工作坊：预测不断变化的细胞群体	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/zh-CN.md
+expand	Workshops & peer learning	T1	Atelier Task 1 : prévoir une population cellulaire en évolution	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/fr.md
+expand	Workshops & peer learning	T1	Task 1 ワークショップ：変化する細胞集団を予測する	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/ja.md
+expand	Workshops & peer learning	T1	Task 1 워크숍: 변화하는 세포 집단 예측하기	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/ko.md
+expand	Workshops & peer learning	T1	Oficina Task 1: prever uma população celular em transformação	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/pt-BR.md
+expand	Workshops & peer learning	T1	Task 1 कार्यशाला: बदलती कोशिका आबादी का पूर्वानुमान	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/hi.md
+expand	Workshops & peer learning	T1	ورشة Task 1: التنبؤ بمجموعة خلوية متغيرة	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/ar.md
+expand	Workshops & peer learning	T2	Task-2-Workshop auf Deutsch: Räumliche und zeitliche Vorhersagen einordnen	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/de.md
+expand	Workshops & peer learning	T2	Task 2 Workshop in italiano: ragionare tra spazio e tempo	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/it.md
+expand	Workshops & peer learning	T2	Task 2 Atölyesi: Uzay ve zaman boyunca akıl yürütme	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/tr.md
+expand	Workshops & peer learning	T2	Task 2 कार्यशाला: स्थान और समय के साथ तर्क करना	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/hi.md
+expand	Workshops & peer learning	T2	ورشة Task 2: التفكير عبر المكان والزمن	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/ar.md
+expand	Workshops & peer learning	T3	Task-3-Workshop auf Deutsch: Die Antwort auf eine Perturbation vorhersagen	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/de.md
+expand	Workshops & peer learning	T3	Laboratorio Task 3 in italiano: prevedere la risposta a una perturbazione	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/it.md
+expand	Workshops & peer learning	T3	Task 3 Atölyesi: Perturbasyon yanıtını tahmin etme	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/tr.md
+expand	Workshops & peer learning	T3	Task 3 कार्यशाला: perturbation प्रतिक्रिया का पूर्वानुमान	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/hi.md
+expand	Workshops & peer learning	T3	ورشة Task 3: التنبؤ باستجابة الاضطراب	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ar.md
+expand	Start here	General	VEC Peer-Workshop auf Deutsch: Einen reproduzierbaren Workflow starten	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/de.md
+expand	Start here	General	Laboratorio VEC tra pari in italiano: avviare un flusso riproducibile	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/it.md
+expand	Start here	General	VEC Akran Atölyesi: Tekrarlanabilir bir iş akışına başlama	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/tr.md

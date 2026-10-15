@@ -1075,5 +1075,255 @@
     "title": "VEC P3 Attempt Ledger — offline tracker for two scored submissions per board",
     "url": "https://github.com/random-guy-05/vec-p3-attempt-ledger",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "organize",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Task 1 Workshop: Forecasting a Changing Cell Population",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/en.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Task-1-Workshop auf Deutsch: Eine sich verändernde Zellpopulation prognostizieren",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/de.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Laboratorio Task 1 in italiano: prevedere una popolazione cellulare in cambiamento",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/it.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Task 1 Atölyesi: Değişen bir hücre popülasyonunu tahmin etme",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/tr.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Taller Task 1: Pronosticar una población celular cambiante",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/es.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Task 1 工作坊：预测不断变化的细胞群体",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/zh-CN.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Atelier Task 1 : prévoir une population cellulaire en évolution",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/fr.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Task 1 ワークショップ：変化する細胞集団を予測する",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/ja.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Task 1 워크숍: 변화하는 세포 집단 예측하기",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/ko.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Oficina Task 1: prever uma população celular em transformação",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/pt-BR.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Task 1 कार्यशाला: बदलती कोशिका आबादी का पूर्वानुमान",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/hi.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "ورشة Task 1: التنبؤ بمجموعة خلوية متغيرة",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/ar.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Task-2-Workshop auf Deutsch: Räumliche und zeitliche Vorhersagen einordnen",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/de.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Task 2 Workshop in italiano: ragionare tra spazio e tempo",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/it.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Task 2 Atölyesi: Uzay ve zaman boyunca akıl yürütme",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/tr.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Task 2 कार्यशाला: स्थान और समय के साथ तर्क करना",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/hi.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "ورشة Task 2: التفكير عبر المكان والزمن",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/ar.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Task-3-Workshop auf Deutsch: Die Antwort auf eine Perturbation vorhersagen",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/de.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Laboratorio Task 3 in italiano: prevedere la risposta a una perturbazione",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/it.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Task 3 Atölyesi: Perturbasyon yanıtını tahmin etme",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/tr.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Task 3 कार्यशाला: perturbation प्रतिक्रिया का पूर्वानुमान",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/hi.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "ورشة Task 3: التنبؤ باستجابة الاضطراب",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/ar.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC Peer-Workshop auf Deutsch: Einen reproduzierbaren Workflow starten",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/de.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "Laboratorio VEC tra pari in italiano: avviare un flusso riproducibile",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/it.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "VEC Akran Atölyesi: Tekrarlanabilir bir iş akışına başlama",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/tr.md",
+    "status": "Filed · not yet reviewed"
   }
 ]

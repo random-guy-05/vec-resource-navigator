@@ -152,7 +152,7 @@
     document.querySelector("#filters").addEventListener("change", draw);
     document.querySelector("#filters").addEventListener("reset", () => setTimeout(draw, 0));
 
-    fetch("./catalog.json?version=2026-10-14-8", { cache: "no-store" })
+    fetch("./catalog.json?version=2026-10-14-9", { cache: "no-store" })
       .then(response => {
         if (!response.ok) throw new Error(`Catalog request returned ${response.status}`);
         return response.json();
