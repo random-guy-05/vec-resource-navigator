@@ -99,7 +99,7 @@ build	Environments & performance	General	VEC PBS + LSF Starter — research-clus
 build	Data & eligibility	T1,T2,T3	VEC Cohort Audit — metadata-only cell composition profiles across stages	https://github.com/random-guy-05/vec-cohort-audit
 build	Rules & operations	General	VEC Resource Link Audit — conservative checker for shared community links	https://github.com/random-guy-05/vec-resource-link-audit
 build	Scoring & learning	T3	VEC Replicate Range — paired Task 3 biological-replicate sensitivity report	https://github.com/random-guy-05/vec-replicate-range
-teach	Rules & operations	General	VEC Rule Scenario Trainer — 30-case interactive practice for Challenge rules	https://github.com/random-guy-05/vec-rule-scenario-trainer
+teach	Rules & operations	General	VEC Rule Scenario Trainer — 33 rule cases in English, Spanish, and Simplified Chinese	https://random-guy-05.github.io/vec-rule-scenario-trainer/
 build	Submission & files	General	VEC P3 Attempt Ledger — offline tracker for two scored submissions per board	https://github.com/random-guy-05/vec-p3-attempt-ledger
 organize	Workshops & peer learning	T1	Task 1 Workshop: Forecasting a Changing Cell Population	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/en.md
 expand	Workshops & peer learning	T1	Task-1-Workshop auf Deutsch: Eine sich verändernde Zellpopulation prognostizieren	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/de.md
