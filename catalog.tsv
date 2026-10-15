@@ -126,3 +126,4 @@ expand	Workshops & peer learning	T3	ورشة Task 3: التنبؤ باستجاب
 expand	Start here	General	VEC Peer-Workshop auf Deutsch: Einen reproduzierbaren Workflow starten	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/de.md
 expand	Start here	General	Laboratorio VEC tra pari in italiano: avviare un flusso riproducibile	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/it.md
 expand	Start here	General	VEC Akran Atölyesi: Tekrarlanabilir bir iş akışına başlama	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/tr.md
+build	Start here	T1,T2,T3,Agent	VEC Pathway Builder — multilingual guided routes to a useful next step	https://random-guy-05.github.io/vec-pathway-builder/

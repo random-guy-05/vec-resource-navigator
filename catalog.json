@@ -1325,5 +1325,18 @@
     "title": "VEC Akran Atölyesi: Tekrarlanabilir bir iş akışına başlama",
     "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/tr.md",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "build",
+    "category": "Start here",
+    "tasks": [
+      "T1",
+      "T2",
+      "T3",
+      "Agent"
+    ],
+    "title": "VEC Pathway Builder — multilingual guided routes to a useful next step",
+    "url": "https://random-guy-05.github.io/vec-pathway-builder/",
+    "status": "Filed · not yet reviewed"
   }
 ]
