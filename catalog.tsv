@@ -127,3 +127,11 @@ expand	Start here	General	VEC Peer-Workshop auf Deutsch: Einen reproduzierbaren 
 expand	Start here	General	Laboratorio VEC tra pari in italiano: avviare un flusso riproducibile	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/it.md
 expand	Start here	General	VEC Akran Atölyesi: Tekrarlanabilir bir iş akışına başlama	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/tr.md
 build	Start here	T1,T2,T3,Agent	VEC Pathway Builder — multilingual guided routes to a useful next step	https://random-guy-05.github.io/vec-pathway-builder/
+expand	Start here	General	Lokakarya VEC bersama rekan: Memulai Alur Kerja yang Dapat Direproduksi (Bahasa Indonesia)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/id.md
+expand	Start here	General	Hội thảo VEC cùng đồng nghiệp: Bắt đầu với quy trình có thể tái lập (Tiếng Việt)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/vi.md
+expand	Workshops & peer learning	T1	Lokakarya Task 1: Memprediksi Populasi Sel yang Berubah (Bahasa Indonesia)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/id.md
+expand	Workshops & peer learning	T1	Hội thảo Task 1: Dự đoán quần thể tế bào đang thay đổi (Tiếng Việt)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/vi.md
+expand	Workshops & peer learning	T2	Lokakarya Task 2: Menalar Ruang dan Waktu (Bahasa Indonesia)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/id.md
+expand	Workshops & peer learning	T2	Hội thảo Task 2: Suy luận về không gian và thời gian (Tiếng Việt)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/vi.md
+expand	Workshops & peer learning	T3	Lokakarya Task 3: Memprediksi Respons Perturbasi (Bahasa Indonesia)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/id.md
+expand	Workshops & peer learning	T3	Hội thảo Task 3: Dự đoán phản ứng với perturbation (Tiếng Việt)	https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/vi.md

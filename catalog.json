@@ -1338,5 +1338,85 @@
     "title": "VEC Pathway Builder — multilingual guided routes to a useful next step",
     "url": "https://random-guy-05.github.io/vec-pathway-builder/",
     "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "Lokakarya VEC bersama rekan: Memulai Alur Kerja yang Dapat Direproduksi (Bahasa Indonesia)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/id.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Start here",
+    "tasks": [
+      "General"
+    ],
+    "title": "Hội thảo VEC cùng đồng nghiệp: Bắt đầu với quy trình có thể tái lập (Tiếng Việt)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/first-workflow/vi.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Lokakarya Task 1: Memprediksi Populasi Sel yang Berubah (Bahasa Indonesia)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/id.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T1"
+    ],
+    "title": "Hội thảo Task 1: Dự đoán quần thể tế bào đang thay đổi (Tiếng Việt)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t1-temporal/vi.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Lokakarya Task 2: Menalar Ruang dan Waktu (Bahasa Indonesia)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/id.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T2"
+    ],
+    "title": "Hội thảo Task 2: Suy luận về không gian và thời gian (Tiếng Việt)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t2-spatial/vi.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Lokakarya Task 3: Memprediksi Respons Perturbasi (Bahasa Indonesia)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/id.md",
+    "status": "Filed · not yet reviewed"
+  },
+  {
+    "kind": "expand",
+    "category": "Workshops & peer learning",
+    "tasks": [
+      "T3"
+    ],
+    "title": "Hội thảo Task 3: Dự đoán phản ứng với perturbation (Tiếng Việt)",
+    "url": "https://github.com/random-guy-05/vec-workshop-series/blob/main/workshops/t3-perturbation/vi.md",
+    "status": "Filed · not yet reviewed"
   }
 ]
